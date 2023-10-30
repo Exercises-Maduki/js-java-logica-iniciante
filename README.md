@@ -43,4 +43,3 @@ Ao executar o teste para cada tipo de herói, você deve ver mensagens como:
 
 ---
 
-Esperamos que este README forneça uma visão clara do projeto e de como ele foi desenvolvido. Se você tiver alguma dúvida ou feedback, sinta-se à vontade para contribuir!
